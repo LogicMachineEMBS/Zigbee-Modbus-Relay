@@ -1,0 +1,11 @@
+## IDF Component Manager Manifest File
+dependencies:
+  espressif/esp-zboss-lib: "~1.6.0"
+  espressif/esp-zigbee-lib: "~1.6.0"
+  ## Required IDF version
+  idf:
+    version: ">=5.0.0"
+  espressif/esp-modbus:
+    version: "^1.0"
+  mb_example_common:
+    path: ${IDF_PATH}/examples/protocols/modbus/mb_example_common
