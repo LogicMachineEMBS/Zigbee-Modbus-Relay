@@ -8,7 +8,7 @@ Commads: <br>
 **idf.py build** <br>
 
 
-Binary files and addresses:
+Binary files and addresses: <br>
 **bootloader.bin 0x0** <br>
 **partition-table.bin 0x8000** <br>
 **zigbee_modbu_relay.bin 0x10000**
