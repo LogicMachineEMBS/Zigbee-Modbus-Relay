@@ -15,3 +15,20 @@ Binary files and addresses: <br>
 **bootloader.bin 0x0** <br>
 **partition-table.bin 0x8000** <br>
 **zigbee_modbu_relay.bin 0x10000**
+
+<br>
+ESP32 device flashing: <br>
+1. Download [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) <br>
+2. Connect device to PC via USB while holding the programming button <br>
+3. Run **flash_download_tool.exe** and select the following values
+
+* ChipType = ESP32-C6
+* WorkMode = Develop
+* LoadMode = USB
+
+![setup_1](pictures/flash_download_tool_1.png)
+
+Select the binary files
+
+Click **ERASE** button, to erase ESP32-C6 memory
+Click **START** button, to upload the firmware
