@@ -30,9 +30,11 @@ Run **flash_download_tool.exe** and select the following values <br>
 ![setup_1](pictures/flash_download_tool_1.png) <br>
 ![setup_2](pictures/flash_download_tool_2.png) <br>
 
+* Tick the checkboxes
+* Choose binary files and set the addresses
+* Select correct COM port as detected by the OS
+* Click **ERASE** button, to erase ESP32-C6 memory
+* Click **START** button, to upload the firmware
 
 
-Select the binary files
 
-Click **ERASE** button, to erase ESP32-C6 memory <br>
-Click **START** button, to upload the firmware
