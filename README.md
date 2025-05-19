@@ -27,7 +27,7 @@ Run **flash_download_tool.exe** and select the following values <br>
 * WorkMode = Develop
 * LoadMode = USB
 
-![setup_1](pictures/flash_download_tool_1.png)
+![setup_1](pictures/flash_download_tool_1.png) <br>
 
 Select the binary files
 
