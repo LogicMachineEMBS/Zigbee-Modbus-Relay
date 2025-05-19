@@ -3,6 +3,9 @@
 Project is built using: <br>
 **esp-idf-v5.3.2** (for Linux) <br>
 
+Go to directory: <br>
+**cd** zigbee\zigbee_modbus\zigbee_modbus_relay <br>
+
 Commads: <br>
 **idf.py set-target esp32c6** <br>
 **idf.py build** <br>
