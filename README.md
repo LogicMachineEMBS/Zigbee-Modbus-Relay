@@ -28,6 +28,9 @@ Run **flash_download_tool.exe** and select the following values <br>
 * LoadMode = USB
 
 ![setup_1](pictures/flash_download_tool_1.png) <br>
+![setup_2](pictures/flash_download_tool_2.png) <br>
+
+
 
 Select the binary files
 
