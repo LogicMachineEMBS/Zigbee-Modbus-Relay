@@ -18,9 +18,7 @@ Binary files and addresses: <br>
 
 <br>
 ESP32 device flashing: <br>
-1. Download 
-[Flash Download Tools](https://www.espressif.com/en/support/download/other-tools)
-<br>
+1. Download [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) <br>
 2. Connect device to PC via USB while holding the programming button <br>
 3. Run **flash_download_tool.exe** and select the following values
 
