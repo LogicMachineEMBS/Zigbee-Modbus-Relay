@@ -17,11 +17,10 @@ Binary files and addresses: <br>
 **zigbee_modbu_relay.bin 0x10000**
 
 <br>
-ESP32 device flashing:
-
-Download [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) <br>
-Connect device to PC via USB while holding the programming button <br>
-Run **flash_download_tool.exe** and select the following values <br>
+ESP32 device flashing: <br>
+1.Download [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools) <br>
+2.Connect device to PC via USB while holding the programming button <br>
+3.Run **flash_download_tool.exe** and select the following values <br>
 
 * ChipType = ESP32-C6
 * WorkMode = Develop
