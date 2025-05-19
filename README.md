@@ -4,7 +4,7 @@ Project is built using: <br>
 **esp-idf-v5.3.2** (for Linux) <br>
 
 Export path: <br>
-**cd esp-idf**
+**cd esp-idf** <br>
 **. ./export.sh**
 
 Go to directory: <br>
