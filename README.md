@@ -18,9 +18,13 @@ Binary files and addresses: <br>
 
 <br>
 ESP32 device flashing:
-1.Download [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools)
-2.Connect device to PC via USB while holding the programming button
-3.Run **flash_download_tool.exe** and select the following values
+
+
+[Flash Download Tools](https://www.espressif.com/en/support/download/other-tools)
+
+Connect device to PC via USB while holding the programming button
+
+Run **flash_download_tool.exe** and select the following values
 
 * ChipType = ESP32-C6
 * WorkMode = Develop
