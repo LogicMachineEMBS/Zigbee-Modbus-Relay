@@ -3,6 +3,10 @@
 Project is built using: <br>
 **esp-idf-v5.3.2** (for Linux) <br>
 
+Export path: <br>
+**cd esp-idf**
+**. ./export.sh**
+
 Go to directory: <br>
 **cd** zigbee\zigbee_modbus\zigbee_modbus_relay <br>
 
