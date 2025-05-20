@@ -8,7 +8,7 @@ Export path: <br>
 **. ./export.sh**
 
 Go to directory: <br>
-**cd** zigbee\zigbee_modbus\zigbee_modbus_relay <br>
+**cd zigbee\zigbee_modbus\zigbee_modbus_relay** <br>
 
 Commads: <br>
 **idf.py set-target esp32c6** <br>
