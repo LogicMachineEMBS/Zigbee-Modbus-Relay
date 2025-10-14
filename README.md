@@ -40,5 +40,11 @@ Run **flash_download_tool.exe** and select the following values <br>
 * Click **ERASE** button, to erase ESP32-C6 memory
 * Click **START** button, to upload the firmware
 
-
+<br>
+> [!WARNING]
+> **Intermittent Zigbee Initialization Failure on Cold Boot**
+>
+> There is a known, hard-to-reproduce issue where the Zigbee stack may fail to initialize on a cold boot (i.e., when power is first connected). This occurs intermittently, approximately once in every 50 power cycles.
+>
+> **Workaround:** A simple power cycle (unplugging and replugging the device) or a manual reset resolves the issue.
 
