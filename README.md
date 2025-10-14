@@ -41,6 +41,7 @@ Run **flash_download_tool.exe** and select the following values <br>
 * Click **START** button, to upload the firmware
 
 <br>
+
 **WARNING**
 
 **Intermittent Zigbee Initialization Failure on Cold Boot**
