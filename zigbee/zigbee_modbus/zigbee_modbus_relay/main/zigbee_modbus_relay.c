@@ -416,6 +416,7 @@ void modbus_loop(){
 
 
 static void esp_zb_task(void *pvParameters){
+  vTaskDelay(pdMS_TO_TICKS(500));
   /* initialize Zigbee stack */
   esp_zb_cfg_t zb_nwk_cfg = ESP_ZB_ZED_CONFIG();
   esp_zb_init(&zb_nwk_cfg);
