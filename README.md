@@ -41,7 +41,8 @@ Run **flash_download_tool.exe** and select the following values <br>
 * Click **START** button, to upload the firmware
 
 <br>
-[!WARNING]
+**!WARNING**
+
 **Intermittent Zigbee Initialization Failure on Cold Boot**
 
 There is a known, hard-to-reproduce issue where the Zigbee stack may fail to initialize on a cold boot (i.e., when power is first connected). This occurs intermittently, approximately once in every 50 power cycles.
