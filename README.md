@@ -3,7 +3,7 @@
 **Hybrid relay device** seamlessly runs **Modbus and Zigbee networks**
 at the same time, offering unprecedented flexibility
 
-<img src="pictures/ZIGBEE_MODBUS_R1_TOP.png" alt="device_1" width="100"/><br>
+<img src="pictures/ZIGBEE_MODBUS_R1_TOP.png" alt="device_1" width="150"/><br>
 
 In the area of multi-protocol solutions, we presented **Modbus-Zigbee-R1**
 with a unique approach to simultaneous ZigBee and Modbus protocol support,
