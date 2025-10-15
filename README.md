@@ -1,5 +1,14 @@
 # Zigbee-Modbus-Relay
 
+**Hybrid relay device** seamlessly runs **Modbus and Zigbee networks**
+at the same time, offering unprecedented flexibility
+
+![device_1](pictures/ZIGBEE_MODBUS_R1_TOP.png)<br>
+
+In the area of multi-protocol solutions, we presented **Modbus-Zigbee-R1**
+with a unique approach to simultaneous ZigBee and Modbus protocol support,
+providing control from multiple networks and status conversion between protocols. 
+
 Project is built using: <br>
 **esp-idf-v5.3.2** (for Linux) <br>
 
