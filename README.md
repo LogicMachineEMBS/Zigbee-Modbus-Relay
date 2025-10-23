@@ -11,6 +11,17 @@ In the area of multi-protocol solutions, we presented **Modbus-Zigbee-R1**
 with a unique approach to simultaneous ZigBee and Modbus protocol support,
 providing control from multiple networks and status conversion between protocols. 
 
+## Device usage
+
+Short press on reset button resets device. Long press on reset button
+till the led starts flashing perfoms the full Zigbee network reset.
+Modbus id, baudrate and parity are set in Zigbee parameter settings,
+so it needed to connect to zigbee network, then change the parameters
+of Modbus.
+
+
+## Project built
+
 Project is built using: <br>
 **esp-idf-v5.3.2** (for Linux) <br>
 
@@ -31,6 +42,7 @@ Binary files and addresses: <br>
 **partition-table.bin 0x8000** <br>
 **zigbee_modbu_relay.bin 0x10000**
 
+## Firmware flashing
 <br>
 ESP32 device flashing: <br>
 
