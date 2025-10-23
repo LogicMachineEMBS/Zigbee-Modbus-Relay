@@ -1,25 +1,24 @@
-# Zigbee-Modbus-Relay
+# ZigBee-Modbus-Relay
 
-**Hybrid relay device** seamlessly runs **Modbus and Zigbee networks**
+**Hybrid relay device** seamlessly runs **Modbus and ZigBee networks**
 at the same time, offering unprecedented flexibility
 
 <p align="center">
   <img src="pictures/ZIGBEE_MODBUS_R1_TOP.png" alt="device_1" width="150"/>
 </p>
 
-In the area of multi-protocol solutions, we presented **Modbus-Zigbee-R1**
+In the area of multi-protocol solutions, we present **Modbus-ZigBee-R1**
 with a unique approach to simultaneous ZigBee and Modbus protocol support,
 providing control from multiple networks and status conversion between protocols. 
 
 ## Device usage
 
-Device is trying to connect to Zigbee network after turning on (24VDC power
-should be connected).
-Short press on reset button resets device. Long press on reset button
-(about 4 seconds) till the led starts flashing perfoms the full Zigbee
-network reset. Modbus id, baudrate and parity are set in Zigbee parameter
-settings, so it needed to connect to zigbee network, then change the
-parameters of Modbus.
+Device will attempt to connect to the ZigBee network after turning on
+(24VDC power should be connected). Short press on reset button resets
+device. Long press on reset button (about 4 seconds) until the LED starts
+flashing performs a complete reset of ZigBee settings. Modbus ID, baudrate
+and parity can only be set via ZigBee parameters, so it's mandatory to
+connect it to a ZigBee network first.
 
 
 ## Project built
@@ -69,9 +68,9 @@ Run **flash_download_tool.exe** and select the following values <br>
 
 **WARNING**
 
-**Intermittent Zigbee Initialization Failure on Cold Boot**
+**Intermittent ZigBee Initialization Failure on Cold Boot**
 
-There is a known, hard-to-reproduce issue where the Zigbee stack may fail to initialize on a cold boot (i.e., when power is first connected). This occurs intermittently, approximately once in every 50 power cycles.
+There is a known, hard-to-reproduce issue where the ZigBee stack may fail to initialize on a cold boot (i.e., when power is first connected). This occurs intermittently, approximately once in every 50 power cycles.
 
 **Workaround:** A simple power cycle (unplugging and replugging the device) or a manual reset resolves the issue.
 
