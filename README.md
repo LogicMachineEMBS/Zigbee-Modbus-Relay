@@ -13,6 +13,8 @@ providing control from multiple networks and status conversion between protocols
 
 ## Device usage
 
+Device is trying to connect to Zigbee network after turning on (24VDC power
+should be connected).
 Short press on reset button resets device. Long press on reset button
 (about 4 seconds) till the led starts flashing perfoms the full Zigbee
 network reset. Modbus id, baudrate and parity are set in Zigbee parameter
