@@ -1,4 +1,9 @@
-// This project is made by LogicMachine creators
+// Copyright (c) 2025 LogicMachine
+// Licensed under the MIT License. See LICENSE file in the project root for full license information.
+
+// This file is based on or incorporates material from the Espressif IoT Development Framework (esp-idf),
+// which is licensed under the Apache License, Version 2.0.
+// A copy of the original license can be found in the LICENSE-3RD-PARTY.txt file.
 
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
