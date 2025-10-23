@@ -14,10 +14,10 @@ providing control from multiple networks and status conversion between protocols
 ## Device usage
 
 Short press on reset button resets device. Long press on reset button
-till the led starts flashing perfoms the full Zigbee network reset.
-Modbus id, baudrate and parity are set in Zigbee parameter settings,
-so it needed to connect to zigbee network, then change the parameters
-of Modbus.
+(about 4 seconds) till the led starts flashing perfoms the full Zigbee
+network reset. Modbus id, baudrate and parity are set in Zigbee parameter
+settings, so it needed to connect to zigbee network, then change the
+parameters of Modbus.
 
 
 ## Project built
