@@ -11,6 +11,13 @@ In the area of multi-protocol solutions, we present **Modbus-ZigBee-R1**
 with a unique approach to simultaneous ZigBee and Modbus protocol support,
 providing control from multiple networks and status conversion between protocols. 
 
+## Youtube video
+<div align="center">
+
+[![Modbus-Zigbee-R1_video](https://www.youtube.com/watch?v=4MWVPtZsypg/0.jpg)](https://www.youtube.com/watch?v=4MWVPtZsypg)
+
+</div>
+
 ## Device usage
 
 Device will attempt to connect to the ZigBee network after turning on
