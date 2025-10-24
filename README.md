@@ -1,14 +1,27 @@
 # ZigBee-Modbus-Relay
 
-**Hybrid relay device** seamlessly runs **Modbus and ZigBee networks**
-at the same time, offering unprecedented flexibility
+Wired is inconvenient, wireless is unreliable. What if you could combine the best of both worlds?
+
+We present **ZigBee-Modbus-R1** a unique device designed to solve this very problem.
+It's a hybrid relay that simultaneously supports both the wired Modbus RTU interface
+and the wireless ZigBee network. This allows you to create truly flexible and
+fault-tolerant control systems.
 
 <p align="center">
   <img src="pictures/ZIGBEE_MODBUS_R1_TOP.png" alt="device_1" width="150"/>
 </p>
 
-In the area of multi-protocol solutions, we present **ZigBee-Modbus-R1**
-with a unique approach to simultaneous ZigBee and Modbus protocol support,
+**Key Features:**
+
+**Flexible Installation:** Use the Zigbee wireless protocol where running cables is impossible or not cost-effective.
+
+**Industrial Reliability:** Rely on the time-tested Modbus wired protocol for mission-critical parts of your system where stability is paramount.
+
+**Maximum Fault Tolerance (Failover):** Activate both interfaces simultaneously. In case of a failure on one network
+(e.g., a cable break or strong radio interference), the device remains controllable via the second network, ensuring uninterrupted operation.
+
+
+A unique approach to simultaneous ZigBee and Modbus protocol support,
 providing control from multiple networks and status conversion between protocols. 
 
 ## Youtube video
@@ -80,4 +93,13 @@ Run **flash_download_tool.exe** and select the following values <br>
 There is a known, hard-to-reproduce issue where the ZigBee stack may fail to initialize on a cold boot (i.e., when power is first connected). This occurs intermittently, approximately once in every 50 power cycles.
 
 **Workaround:** A simple power cycle (unplugging and replugging the device) or a manual reset resolves the issue.
+
+
+## PCB Design
+
+We can provide the PCB design files to those who are interested.
+Please reach out and let us know. Your feedback is important, as
+it helps us understand our community and who we're collaborating with.
+
+https://logicmachine.net/contact-us
 
