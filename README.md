@@ -13,7 +13,7 @@ fault-tolerant control systems.
 
 **Key Features:**
 
-**Flexible Installation:** Use the Zigbee wireless protocol where running cables is impossible or not cost-effective.
+**Flexible Installation:** Use the ZigBee wireless protocol where running cables is impossible or not cost-effective.
 
 **Industrial Reliability:** Rely on the time-tested Modbus wired protocol for mission-critical parts of your system where stability is paramount.
 
