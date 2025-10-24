@@ -24,7 +24,7 @@
 
 #define MB_PORT_NUM 1
 #define MB_SLAVE_ADDR 1
-#define MB_DEV_SPEED 115200
+#define MB_DEV_SPEED 9600
 
 static const char *NVS_NAMESPACE = "storage";
 static const char *NVS_MODBUS_ID_KEY = "modbus_id";
@@ -56,7 +56,7 @@ nvs_handle my_handle;
 
 
 uint8_t modbus_id = 1;
-uint32_t modbus_baudrate = 115200;
+uint32_t modbus_baudrate = 9600;
 uint8_t modbus_parity = 0;
 
 bool saved_modbus_id = false;

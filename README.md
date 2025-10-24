@@ -36,9 +36,10 @@ providing control from multiple networks and status conversion between protocols
 Device will attempt to connect to the ZigBee network after turning on
 (24VDC power should be connected). Short press on reset button resets
 device. Long press on reset button (about 4 seconds) until the LED starts
-flashing performs a complete reset of ZigBee settings. Modbus ID, baudrate
-and parity can only be set via ZigBee parameters, so it's mandatory to
-connect it to a ZigBee network first.
+flashing performs a complete reset of ZigBee settings.
+The default Modbus settings are: ID 66, baud rate 9600, and 'no parity'.
+To change these parameters, the device must be connected to a Zigbee
+network, and the values must be updated through Zigbee parameters.
 
 
 ## Project built
