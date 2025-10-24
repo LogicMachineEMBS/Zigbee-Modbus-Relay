@@ -27,7 +27,7 @@ providing control from multiple networks and status conversion between protocols
 ## Youtube video
 <div align="center">
 
-[![ZigBee-Modbus-R1_video](https://www.youtube.com/watch?v=4MWVPtZsypg/0.jpg)](https://www.youtube.com/watch?v=4MWVPtZsypg)
+[![ZigBee-Modbus-R1_video](https://img.youtube.com/vi/4MWVPtZsypg/0.jpg)](https://www.youtube.com/watch?v=4MWVPtZsypg)
 
 </div>
 
