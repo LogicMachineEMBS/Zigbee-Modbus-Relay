@@ -7,14 +7,14 @@ at the same time, offering unprecedented flexibility
   <img src="pictures/ZIGBEE_MODBUS_R1_TOP.png" alt="device_1" width="150"/>
 </p>
 
-In the area of multi-protocol solutions, we present **Modbus-ZigBee-R1**
+In the area of multi-protocol solutions, we present **ZigBee-Modbus-R1**
 with a unique approach to simultaneous ZigBee and Modbus protocol support,
 providing control from multiple networks and status conversion between protocols. 
 
 ## Youtube video
 <div align="center">
 
-[![Modbus-Zigbee-R1_video](https://www.youtube.com/watch?v=4MWVPtZsypg/0.jpg)](https://www.youtube.com/watch?v=4MWVPtZsypg)
+[![ZigBee-Modbus-R1_video](https://www.youtube.com/watch?v=4MWVPtZsypg/0.jpg)](https://www.youtube.com/watch?v=4MWVPtZsypg)
 
 </div>
 
